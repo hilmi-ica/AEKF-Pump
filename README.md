@@ -6,6 +6,6 @@ This repository contains simulations for submersible injection pump fault diagno
 
 Sharing MATLAB code for reproducing results and facilitating review.
 
-## IFAC World Congress Submission
+## IEEE Conference on Decision and Control Submission
 
 This repository directly supports code for our paper submission.
