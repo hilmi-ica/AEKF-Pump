@@ -14,7 +14,7 @@ This repository directly supports code for our paper submission.
 
 M. Hilmi, A. Hasan and M. -A. Lundteigen, "Self-Tuning Kalman Filter for Fault Estimation of Nonlinear Systems," 2025 IEEE 64th Conference on Decision and Control (CDC), Rio de Janeiro, Brazil, 2025, pp. 502-508.
 ```
-@INPROCEEDINGS{11312946,
+@INPROCEEDINGS{AEKF-Pump,
   author={Hilmi, Muhammad and Hasan, Agus and Lundteigen, Mary-Ann},
   booktitle={2025 IEEE 64th Conference on Decision and Control (CDC)}, 
   title={Self-Tuning Kalman Filter for Fault Estimation of Nonlinear Systems}, 
