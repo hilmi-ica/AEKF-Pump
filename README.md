@@ -6,10 +6,6 @@ This repository contains simulations for submersible injection pump fault diagno
 
 Sharing MATLAB code for reproducing results and facilitating review.
 
-## IEEE Conference on Decision and Control Submission
-
-This repository directly supports code for our paper submission.
-
 ## Reference
 
 M. Hilmi, A. Hasan and M. -A. Lundteigen, "Self-Tuning Kalman Filter for Fault Estimation of Nonlinear Systems," 2025 IEEE 64th Conference on Decision and Control (CDC), Rio de Janeiro, Brazil, 2025, pp. 502-508.
